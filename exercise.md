@@ -47,26 +47,26 @@ When people ask “Will AI take our jobs?”, they usually imagine whole occupat
 
 ## 3) Who’s at risk, who benefits?
 
-Higher exposure (declining demand without reskilling):  
+**Higher exposure (declining demand without reskilling):**  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
 - High‑volume customer support that is largely scriptable.  
 - Repetitive content generation without domain expertise.
 
-Lower exposure / likely complemented:  
+**Lower exposure / likely complemented:**
 - Roles with complex human interaction (healthcare, education, management).  
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-Early career boost: The contact‑center study and lab experiments show AI can encode and spread best practices, letting juniors perform closer to seniors sooner. That raises productivity—and sometimes wage pressure—but may also compress career ladders unless organizations redesign roles.
+**Early career boost:** The contact‑center study and lab experiments show AI can **encode and spread best practices,** letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also compress career ladders unless organizations redesign roles.
 
 ---
 
 ## 4) What actually changes inside a job?
 
-1. Time allocation shifts: less rough‑drafting, more reviewing, prompting, verifying.  
-2. Quality bars rise: if AI drafts “good enough”, human value moves to problem framing, data/context curation, taste, and verification.  
-3. Skills portfolio updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. Metrics change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
+2. **Quality bars** rise: if AI drafts “good enough”, human value moves to problem framing, data/context curation, taste, and verification.  
+3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
+4. **Metrics change**: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
 >Design principle for teams: Automate the boring, amplify the human.
 
@@ -74,30 +74,30 @@ Early career boost: The contact‑center study and lab experiments show AI can e
 
 ## 5) What should you (a first‑year IT student) do?
 
-- Master the basics of data + automation: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
-- Practice “prompt → verify → ship”: use AI to draft, but always check sources, test outputs, and document assumptions.  
-- Build a visible portfolio: small public repos showing before/after with and without AI (README demos, notebooks).  
-- Invest in durable skills: systems thinking, communication, security mindset, and domain context.  
-- Work in pairs/teams: peer review catches model errors and improves your prompts and specs.  
+- **Master the basics of data + automation:** get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
+- **Practice “prompt → verify → ship”**: use AI to draft, but always check sources, test outputs, and document assumptions.  
+- **Build a visible portfolio**: small public repos showing before/after with and without AI (README demos, notebooks).  
+- **Invest in durable skills:** systems thinking, communication, security mindset, and domain context.  
+- **Work in pairs/teams:** peer review catches model errors and improves your prompts and specs.  
 
 A simple checklist for any AI‑assisted task:
 
 - [ ] Define the task and acceptance criteria.  
-- [ ] Draft with AI and log prompts.  
-- [ ] Verify: test, cite sources, run sanity checks.  
-- [ ] Document what the tool did vs. what you did.  
+- [ ] Draft with AI and **log prompts**.  
+- [ ] **Verify**: test, cite sources, run sanity checks.  
+- [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
 ---
 
 ## 6) Policy and management levers (why this matters for outcomes)
 
-- Reskilling at scale (short, modular programs) to help workers cross into rising occupations.  
-- Job redesign: let humans own goals and judgement, while AI handles defined sub‑tasks.  
-- Guardrails: data protection, bias testing, provenance/watermarking, and incident response.  
-- Safety nets: transition support where displacement is concentrated.  
+- **Reskilling at scale** (short, modular programs) to help workers cross into rising occupations.  
+- **Job redesign**: let humans own goals and judgement, while AI handles defined sub‑tasks.  
+- **Guardrails:** data protection, bias testing, provenance/watermarking, and incident response.  
+- **Safety nets:** transition support where displacement is concentrated.  
 
-> Reality check: AI’s net effects depend on choices—of firms (deployment), governments (policy), and individuals (skills).
+> **Reality check:** AI’s net effects depend on choices—of firms (deployment), governments (policy), and individuals (skills).
 
 ---
 
@@ -125,4 +125,4 @@ AI will take parts of many jobs and create parts of new jobs. Some roles will sh
 [^2]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
 [^3]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
 [^4]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
-[^oecd]: OECD (2023). Employment Outlook: Artificial
+[^5]: OECD (2023). Employment Outlook: Artificial
